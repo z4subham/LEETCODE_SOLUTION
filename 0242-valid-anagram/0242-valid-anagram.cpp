@@ -1,21 +1,24 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        vector<int> hash_s(26 , 0) ;
 
-        //pre-computation :- 
-        for(int i=0 ; i < s.length() ; i++){
-            hash_s[s[i] - 'a']++ ;
+        if( s.length() != t.length()){
+            return false ;
+        }
+        unordered_map<char ,int > mpp ;
+
+        //map of string s is created :- 
+        for(int i=0 ; i<s.length() ; i++){
+            mpp[s[i]]++ ;
+        } 
+
+        //iterate in map :- 
+        for(int i=0 ; i<t.length() ; i++){
+            mpp[t[i]]-- ;
         }
 
-        vector<int> hash_t(26 , 0) ;
-
-        for(int i=0 ; i < t.length() ; i++){
-            hash_t[t[i] - 'a']++ ;
-        } 
- 
-        for(int i=0 ; i<26 ; i++){
-            if(hash_s[i] != hash_t[i]){
+        for(auto it : mpp){
+            if(it.second != 0){
                 return false ;
             }
         }
