@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0283-move-zeroes/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0283-move-zeroes/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
