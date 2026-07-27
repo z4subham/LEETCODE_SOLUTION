@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
@@ -25,6 +26,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0242-valid-anagram/) | Easy |
@@ -54,6 +56,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0349-intersection-of-two-arrays/) | Easy |
