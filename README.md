@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
@@ -80,5 +81,6 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
