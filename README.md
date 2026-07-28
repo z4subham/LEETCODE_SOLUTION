@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
