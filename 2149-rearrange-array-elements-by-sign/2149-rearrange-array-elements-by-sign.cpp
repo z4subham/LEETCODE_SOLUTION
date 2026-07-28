@@ -5,23 +5,20 @@ public:
         int n = nums.size() ;
         vector<int> ans(n) ;
         
-
-        vector<int> pos ;
-        vector<int> neg ;
+        int pos_ind = 0 ;
+        int neg_ind = 1 ;
 
         for(int i=0 ; i<n ; i++){
-            if(nums[i] >= 0 ){
-                pos.push_back(nums[i]) ;
+            if(nums[i] >= 0){
+                ans[pos_ind] = nums[i] ;
+                pos_ind = pos_ind + 2 ;
             }
             else{
-                neg.push_back(nums[i]) ;
+                ans[neg_ind] = nums[i] ;
+                neg_ind = neg_ind + 2 ;
             }
         }
-        
-        for(int i=0 ; i<n/2 ; i++){
-            ans[2*i ] = pos[i] ;
-            ans[2*i+1] = neg[i] ; 
-        }
+
         return ans ;
     }
 };
