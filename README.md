@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0136-single-number/) | Easy |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0242-valid-anagram/) | Easy |
@@ -99,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
