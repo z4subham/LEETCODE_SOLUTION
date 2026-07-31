@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
@@ -46,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
@@ -80,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
