@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
+| [0041-first-missing-positive](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0054-spiral-matrix/) | Medium |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
