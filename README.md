@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
@@ -90,6 +91,7 @@
 | [0015-3sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
