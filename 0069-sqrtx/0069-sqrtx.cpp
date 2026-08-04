@@ -5,13 +5,21 @@ public:
         if(x == 0){
             return 0 ;
         }
+        long long low = 1 ;
+        long long high = x ;
         long long ans = 1 ;
-        for(long long i=1 ; i*i <= x ; i++){
-            if(i*i <= x){
-                ans = i ; 
+        while(low <= high){
+            long long mid = (low + high) / 2 ;
+
+            if(mid * mid == x){
+                return mid ;
+            }
+            else if(mid * mid > x){
+                high = mid - 1 ;
             }
             else{
-                break ;
+                ans = mid ;
+                low = mid + 1 ;
             }
         }
         return ans ;
