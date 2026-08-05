@@ -2,43 +2,67 @@ class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int n1 = nums1.size() ;
-        int n2 = nums2.size(); 
+        int n2 = nums2.size() ;
+        
+        int n = n1 + n2 ;
 
-        int m = n1 + n2 ;
-        vector<int> nums3(m ,0) ;
+        int ind2 = n/2 ;
+        int ind1 = ind2 - 1 ;
 
         int i=0 ; 
         int j=0 ;
-        int k=0 ;
-
+        int ctr = 0 ;
+        
+        int ind1_el = -1 ;
+        int ind2_el = -1 ;
 
         while(i<n1 && j<n2){
             if(nums1[i] <= nums2[j]){
-                nums3[k] = nums1[i] ;
+                if(ctr == ind1){
+                    ind1_el = nums1[i] ;
+                }
+                if(ctr == ind2){
+                    ind2_el = nums1[i] ;
+                }
+                ctr++ ;
                 i++ ;
-                k++ ;
             }
             else{
-                nums3[k] = nums2[j] ;
-                k++ ;
-                j++ ; 
+                if(ctr == ind1){
+                    ind1_el = nums2[j] ;
+                }
+                if(ctr == ind2){
+                    ind2_el = nums2[j] ;
+                }
+                ctr++ ;
+                j++ ;
             }
         }
-
         while(i<n1){
-            nums3[k] = nums1[i] ;
+            if(ctr == ind1){
+                ind1_el = nums1[i] ;
+            }
+            if(ctr == ind2){
+                ind2_el = nums1[i] ;
+            }
+            ctr++ ;
             i++ ;
-            k++ ;
         }
+
         while(j<n2){
-            nums3[k] = nums2[j] ;
-            k++ ;
+            if(ctr == ind1){
+                ind1_el = nums2[j] ;
+            }
+            if(ctr == ind2){
+                ind2_el = nums2[j] ; 
+            }
+            ctr++ ;
             j++ ;
         }
+        if(n%2 == 1){
+            return ind2_el ;
 
-        if(m % 2 == 1){
-            return nums3[m/2] ;
         }
-        return (nums3[m/2] + nums3[m/2 - 1]  ) / 2.0 ;
+        return (double)(ind1_el + ind2_el) / 2.0 ;
     }
 };
