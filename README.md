@@ -123,6 +123,7 @@
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,4 +178,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0069-sqrtx/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
