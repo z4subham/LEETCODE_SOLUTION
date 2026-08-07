@@ -121,6 +121,7 @@
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
@@ -150,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
@@ -189,5 +191,6 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
