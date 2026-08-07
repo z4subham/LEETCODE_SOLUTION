@@ -127,6 +127,7 @@
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
