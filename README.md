@@ -162,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -209,6 +210,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -218,6 +220,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -228,6 +231,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -239,5 +243,6 @@
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
