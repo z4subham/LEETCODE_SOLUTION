@@ -45,6 +45,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,12 +170,14 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
