@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
+| [0697-degree-of-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
@@ -62,6 +63,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
+| [0697-degree-of-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0697-degree-of-an-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
