@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
@@ -140,6 +141,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -179,6 +181,7 @@
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
