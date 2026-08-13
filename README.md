@@ -116,6 +116,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
@@ -276,4 +277,8 @@
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
