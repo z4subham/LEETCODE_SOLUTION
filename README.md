@@ -89,6 +89,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -119,6 +120,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -289,4 +291,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0707-design-linked-list/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
