@@ -220,6 +220,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
@@ -288,6 +289,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
