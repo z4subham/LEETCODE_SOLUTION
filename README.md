@@ -227,6 +227,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -297,6 +298,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
