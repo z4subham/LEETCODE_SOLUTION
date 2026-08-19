@@ -79,6 +79,7 @@
 | [0015-3sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0229-majority-element-ii/) | Medium |
@@ -101,6 +102,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Counting
@@ -127,6 +129,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -292,6 +295,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0707-design-linked-list/) | Medium |
@@ -315,4 +319,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
