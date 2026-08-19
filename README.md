@@ -230,6 +230,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -305,6 +306,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0328-odd-even-linked-list/) | Medium |
