@@ -50,6 +50,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Hash Table
@@ -200,6 +201,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
