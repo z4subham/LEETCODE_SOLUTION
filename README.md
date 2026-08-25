@@ -149,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
