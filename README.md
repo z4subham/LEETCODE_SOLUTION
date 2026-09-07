@@ -60,6 +60,7 @@
 | [0001-two-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0141-linked-list-cycle](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0217-contains-duplicate/) | Easy |
@@ -135,6 +136,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
@@ -312,6 +314,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -358,4 +361,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
