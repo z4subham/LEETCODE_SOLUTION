@@ -53,6 +53,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -234,6 +236,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +248,7 @@
 | [0234-palindrome-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
