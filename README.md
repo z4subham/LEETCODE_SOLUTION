@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -104,6 +105,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0383-ransom-note/) | Easy |
@@ -380,4 +382,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0141-linked-list-cycle/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
