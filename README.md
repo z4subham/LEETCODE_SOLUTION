@@ -172,6 +172,7 @@
 | [0326-power-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
+| [0836-rectangle-overlap](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
@@ -389,4 +390,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0014-longest-common-prefix/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
