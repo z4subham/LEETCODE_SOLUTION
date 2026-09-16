@@ -2,19 +2,20 @@ class Solution {
 public:
     int lengthOfLastWord(string s) {
         
-        int n = s.length() ;
-        int ctr = 0 ; 
+        int n = s.length() - 1;
+        int i = n ;
+        int ctr = 0 ;
 
-        //skip the empty spaces :- 
-        int i = n-1 ;
-        while(i>=0 && s[i] == ' '){
+       // for removing the spaces :- 
+        while (i >= 0 && s[i] == ' '){
             i-- ;
         }
-        //counting the character :- 
-        while(i>= 0 && s[i] !=  ' '){
+
+        while(i>=0 && s[i] != ' '){
             ctr++ ;
             i-- ;
-        }
+        } 
+
         return ctr ;
     }
 };
