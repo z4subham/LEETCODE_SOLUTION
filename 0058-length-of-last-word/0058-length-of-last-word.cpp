@@ -2,20 +2,26 @@ class Solution {
 public:
     int lengthOfLastWord(string s) {
         
-        int n = s.length() - 1;
-        int i = n ;
-        int ctr = 0 ;
-
-       // for removing the spaces :- 
-        while (i >= 0 && s[i] == ' '){
-            i-- ;
-        }
-
-        while(i>=0 && s[i] != ' '){
-            ctr++ ;
-            i-- ;
+        stack<string>st ;
+        string word = "" ;
+        int n = s.length() ;
+        for(int i=0 ; i<n ; i++){
+            if(s[i] != ' '){
+                word = word + s[i] ;
+            }
+            else{
+                if(word != ""){
+                    st.push(word);
+                    word = "" ;
+                }
+            }
         } 
-
-        return ctr ;
+        //push the last word :- 
+        if(word != ""){
+            st.push(word) ;
+        }
+        string ans = st.top() ;
+        st.pop() ;
+        return ans.size() ;
     }
 };
