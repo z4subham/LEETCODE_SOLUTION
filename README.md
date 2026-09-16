@@ -115,6 +115,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
@@ -165,6 +166,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -229,6 +231,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0392-is-subsequence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
