@@ -47,6 +47,7 @@
 | [0875-koko-eating-bananas](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -190,6 +191,7 @@
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
 | [0836-rectangle-overlap](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [0989-add-to-array-form-of-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
