@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -181,6 +182,7 @@
 | [0007-reverse-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0231-power-of-two/) | Easy |
