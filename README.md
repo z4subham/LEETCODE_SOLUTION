@@ -55,6 +55,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -123,6 +124,7 @@
 | [0541-reverse-string-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Divide and Conquer
@@ -176,6 +178,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
 | Problem Name | Difficulty |
