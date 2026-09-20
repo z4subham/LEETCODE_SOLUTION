@@ -128,6 +128,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +257,7 @@
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
