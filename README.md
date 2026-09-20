@@ -80,6 +80,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0389-find-the-difference/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0697-degree-of-an-array/) | Easy |
@@ -103,6 +104,7 @@
 | [0268-missing-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -119,6 +121,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0415-add-strings/) | Easy |
 | [0541-reverse-string-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0541-reverse-string-ii/) | Easy |
@@ -239,6 +242,7 @@
 | [0268-missing-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0389-find-the-difference/) | Easy |
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
