@@ -63,6 +63,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
