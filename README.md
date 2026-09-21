@@ -133,6 +133,7 @@
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +189,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
