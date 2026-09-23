@@ -215,6 +215,7 @@
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
+| [0509-fibonacci-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -263,6 +264,7 @@
 | [0053-maximum-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -316,6 +318,7 @@
 | [0234-palindrome-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
@@ -456,4 +459,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
