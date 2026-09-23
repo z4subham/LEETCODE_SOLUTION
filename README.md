@@ -89,6 +89,7 @@
 | [0697-degree-of-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0697-degree-of-an-array/) | Easy |
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -134,6 +135,7 @@
 | [0680-valid-palindrome-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0917-reverse-only-letters/) | Easy |
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
