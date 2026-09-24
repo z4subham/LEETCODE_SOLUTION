@@ -192,6 +192,7 @@
 | [0392-is-subsequence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0917-reverse-only-letters/) | Easy |
@@ -218,6 +219,7 @@
 | [0415-add-strings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0509-fibonacci-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -248,6 +250,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
