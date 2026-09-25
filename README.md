@@ -62,6 +62,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -98,6 +99,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -122,6 +124,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +292,7 @@
 | [0054-spiral-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0054-spiral-matrix/) | Medium |
 | [0415-add-strings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0415-add-strings/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
