@@ -56,6 +56,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -94,6 +95,7 @@
 | [0697-degree-of-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0697-degree-of-an-array/) | Easy |
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -118,6 +120,7 @@
 | [0414-third-maximum-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -259,6 +263,7 @@
 | [0704-binary-search](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
