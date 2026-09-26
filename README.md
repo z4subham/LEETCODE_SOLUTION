@@ -50,6 +50,7 @@
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
@@ -272,6 +273,7 @@
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -322,6 +324,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -470,6 +473,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
