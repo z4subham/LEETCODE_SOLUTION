@@ -45,6 +45,7 @@
 | [0454-4sum-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0454-4sum-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0704-binary-search/) | Easy |
@@ -122,6 +123,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0414-third-maximum-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -234,6 +236,7 @@
 | [0415-add-strings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
