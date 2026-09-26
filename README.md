@@ -73,6 +73,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +482,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
