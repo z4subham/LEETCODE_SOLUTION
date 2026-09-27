@@ -69,6 +69,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2348-number-of-zero-filled-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -252,6 +253,7 @@
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
