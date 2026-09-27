@@ -159,6 +159,7 @@
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3498-reverse-degree-of-a-string/) | Easy |
