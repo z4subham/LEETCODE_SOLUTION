@@ -67,6 +67,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -278,6 +279,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +328,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -474,6 +477,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
