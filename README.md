@@ -26,6 +26,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -293,6 +294,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0287-find-the-duplicate-number/) | Medium |
