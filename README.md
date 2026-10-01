@@ -150,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0125-valid-palindrome/) | Easy |
@@ -383,6 +384,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -532,5 +534,6 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
