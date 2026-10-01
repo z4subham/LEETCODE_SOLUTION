@@ -45,6 +45,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -135,6 +136,7 @@
 | [0268-missing-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0389-find-the-difference](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -292,6 +294,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0367-valid-perfect-square/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0704-binary-search/) | Easy |
@@ -345,6 +348,7 @@
 | [0073-set-matrix-zeroes](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -496,6 +500,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Tournament Sort
 | Problem Name | Difficulty |
