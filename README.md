@@ -45,6 +45,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0414-third-maximum-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -500,6 +501,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Tournament Sort
