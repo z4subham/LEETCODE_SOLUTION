@@ -186,6 +186,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2063-vowels-of-all-substrings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
@@ -282,6 +283,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -340,6 +342,7 @@
 | [0392-is-subsequence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0877-stone-game/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -570,4 +573,8 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2063-vowels-of-all-substrings/) | Medium |
 <!---LeetCode Topics End-->
