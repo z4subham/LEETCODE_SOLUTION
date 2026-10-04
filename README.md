@@ -76,6 +76,7 @@
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1652-defuse-the-bomb/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
@@ -554,6 +555,7 @@
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0409-longest-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
