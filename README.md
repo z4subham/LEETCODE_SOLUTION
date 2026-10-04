@@ -184,6 +184,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -529,6 +530,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
