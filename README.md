@@ -188,6 +188,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
+| [2490-circular-sentence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2490-circular-sentence/) | Easy |
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3498-reverse-degree-of-a-string/) | Easy |
