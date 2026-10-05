@@ -82,6 +82,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2110-number-of-smooth-descent-periods-of-a-stock/) | Medium |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -158,6 +159,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## String
@@ -214,6 +216,7 @@
 | [0229-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
