@@ -53,6 +53,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0454-4sum-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0454-4sum-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -311,6 +312,7 @@
 | [0367-valid-perfect-square](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0367-valid-perfect-square/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0441-arranging-coins/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0713-subarray-product-less-than-k/) | Medium |
