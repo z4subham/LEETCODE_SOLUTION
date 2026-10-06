@@ -73,6 +73,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -325,6 +326,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Bit Manipulation
@@ -373,6 +375,7 @@
 | [0074-search-a-2d-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
