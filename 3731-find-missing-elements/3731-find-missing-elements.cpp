@@ -16,7 +16,7 @@ public:
             hash[nums[i]]++ ;
         } 
 
-        for(int i= min_ele ; i< hash.size() ; i++){
+        for(int i= min_ele ; i<= max_ele ; i++){
             if(hash[i] == 0){
                 ans.push_back(i) ;
             }
