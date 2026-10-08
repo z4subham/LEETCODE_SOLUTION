@@ -190,6 +190,7 @@
 | [0680-valid-palindrome-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0917-reverse-only-letters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0917-reverse-only-letters/) | Easy |
 | [1002-find-common-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1002-find-common-characters/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -428,6 +429,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -585,6 +587,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
