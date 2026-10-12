@@ -97,6 +97,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Hash Table
@@ -136,6 +137,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3731-find-missing-elements/) | Easy |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@
 | [0169-majority-element](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +394,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -529,6 +533,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0148-sort-list/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -593,4 +598,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2063-vowels-of-all-substrings/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->
