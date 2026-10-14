@@ -303,6 +303,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -579,6 +580,7 @@
 | [0409-longest-palindrome](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0409-longest-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
