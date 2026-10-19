@@ -79,6 +79,7 @@
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1652-defuse-the-bomb/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -163,6 +164,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
@@ -336,6 +338,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
