@@ -90,6 +90,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2942-find-words-containing-character](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2942-find-words-containing-character/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
@@ -206,6 +207,7 @@
 | [2490-circular-sentence](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2490-circular-sentence/) | Easy |
 | [2810-faulty-keyboard](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2810-faulty-keyboard/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2942-find-words-containing-character](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2942-find-words-containing-character/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Divide and Conquer
