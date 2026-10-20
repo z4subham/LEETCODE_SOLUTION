@@ -90,6 +90,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2942-find-words-containing-character/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -135,6 +136,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -608,5 +610,10 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/z4subham/LEETCODE_SOLUTION/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
